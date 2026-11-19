@@ -1,0 +1,501 @@
+Book_ID,Title,Author,Genre,Published_Year,Price,Stock
+1,Customizable tangible concept,Hector Clark,Mystery,2021,9.62,29
+2,Enhanced exuding framework,Sean Smith,Mystery,1973,29.65,94
+3,Cross-platform scalable core,Rachel Foster,Romance,1956,15.8,79
+4,Streamlined encompassing time-frame,Megan Andrews,Fiction,1901,41.66,88
+5,Reduced attitude-oriented array,Jacqueline Hayes,Non-Fiction,1944,49.1,46
+6,Fully-configurable asymmetric database,Hector Clark,Biography,1992,20.32,72
+7,Face-to-face demand-driven time-frame,Keith Miller,Science Fiction,1990,37.24,40
+8,Configurable real-time orchestration,Destiny Price,Fiction,1911,22.94,75
+9,Face-to-face 24hour archive,Christopher Smith,Romance,2002,38.76,77
+10,Enhanced 24hour parallelism,Eric Palmer,Non-Fiction,2008,23.9,62
+11,Progressive 5thgeneration migration,Joseph Brown,Fantasy,1998,10.8,7
+12,Proactive 5thgeneration algorithm,Christopher Turner,Romance,1954,26.15,62
+13,Enhanced optimal archive,Nicole Andrews,Science Fiction,1989,25.56,61
+14,Proactive 4thgeneration hub,Sean Hayes,Science Fiction,1939,29.67,83
+15,Progressive real-time core,Brandon Cook,Fiction,1955,14.11,35
+16,Configurable coherent encoding,Angela Cook,Romance,2022,25.62,67
+17,Mandatory 24hour orchestration,Eric Young,Non-Fiction,1988,26.85,66
+18,Cross-platform 24hour migration,Jeremy Brennan,Science Fiction,2016,6.51,38
+19,Secured static migration,Christopher Price,Science Fiction,1991,40.33,66
+20,Optimized static implementation,Jeremy Ward,Science Fiction,1961,47.31,84
+21,Optimized 24hour orchestration,Christopher Young,Science Fiction,2009,23.51,58
+22,Mandatory reciprocal initiative,Joseph Price,Romance,1969,46.95,11
+23,Synergistic zero tolerance challenge,Christopher Wilson,Biography,1996,29.59,35
+24,Versatile scalable toolset,Destiny Miller,Biography,1940,34.91,74
+25,Cross-platform 24hour contingency,Kevin Miller,Romance,1928,26.28,17
+26,Synergistic real-time concept,Samantha Howard,Fiction,1985,12.21,18
+27,Fully-configurable national time-frame,Hector Smith,Fiction,2003,11.68,26
+28,User-friendly reciprocal product,Jaclyn Cook,Biography,1906,42.52,83
+29,Polarized scalable throughput,Joseph Palmer,Fiction,1941,35.73,58
+30,Secured encompassing core,Keith Brown,Romance,2003,12.68,76
+31,Progressive zero tolerance strategy,Todd Barnes,Fiction,1976,15.5,91
+32,Streamlined 4thgeneration parallelism,Mario Young,Science Fiction,2017,12.8,83
+33,Face-to-face coherent project,Steven Foster,Science Fiction,1924,26.77,87
+34,Enhanced reciprocal encoding,Angela Palmer,Fantasy,2000,44.72,18
+35,Advanced attitude-oriented archive,Bryan Hayes,Non-Fiction,1954,28.99,11
+36,User-friendly demand-driven implementation,Destiny Morgan,Non-Fiction,1959,27.39,100
+37,Multi-layered systematic time-frame,Keith Morgan,Non-Fiction,1966,26.69,16
+38,Optimized encompassing archive,Jacqueline Cox,Biography,2022,9.19,59
+39,Robust tangible strategy,Sean Bell,Mystery,2008,43.09,24
+40,Configurable secondary archive,Bryan Scott,Romance,1987,30.75,69
+41,Open-architected encompassing framework,Laura Buckley,Romance,1996,30.56,28
+42,Down-sized demand-driven interface,Colin Lewis,Romance,1916,9.57,34
+43,Customizable systematic implementation,Christopher Lewis,Biography,1997,21.03,24
+44,Robust bifurcated product,Hector Barnes,Non-Fiction,1975,42.68,38
+45,Mandatory tangible implementation,Colin Buckley,Biography,1901,23.52,100
+46,Optimized systematic throughput,Mario Andrews,Fantasy,1902,18.95,13
+47,Versatile 4thgeneration interface,Eric Gray,Non-Fiction,1940,40.09,78
+48,Robust bifurcated contingency,Todd Moore,Fiction,1940,32.35,77
+49,Vision-oriented systematic algorithm,Nicole Andrews,Science Fiction,1947,43.76,88
+50,Mandatory motivating parallelism,Samantha Ward,Non-Fiction,1907,38.09,56
+51,Enhanced reciprocal time-frame,Laura Barnes,Non-Fiction,1993,48.12,16
+52,Ergonomic scalable strategy,Denise Brown,Biography,1969,48.06,26
+53,Face-to-face coherent database,Christopher Morgan,Romance,1915,10.32,17
+54,Progressive secondary framework,Angela Clark,Non-Fiction,1903,24.11,17
+55,Polarized systematic parallelism,Jaclyn Cox,Mystery,1953,34.82,100
+56,Adaptive local Internet solution,Joseph Lewis,Science Fiction,2019,29.36,72
+57,User-friendly motivating migration,Juan Cox,Biography,1902,17.46,62
+58,Re-engineered motivating array,Juan Clark,Romance,1911,42.78,71
+59,Persevering bifurcated archive,Megan Palmer,Mystery,1933,20.33,67
+60,Cross-platform hybrid array,Mario Lewis,Mystery,1901,33.25,32
+61,Reduced coherent challenge,Michael Palmer,Mystery,1919,46.73,52
+62,Proactive secondary migration,Troy Brennan,Mystery,1935,20.47,26
+63,Polarized secondary project,Angela Price,Romance,2003,26.33,87
+64,Down-sized demand-driven structure,Bryan Clark,Fiction,1919,26.82,1
+65,Polarized 5thgeneration contingency,Jeremy Bell,Biography,1981,12.77,39
+66,Polarized 4thgeneration database,Colin Miller,Science Fiction,1994,9.53,3
+67,Face-to-face zero tolerance archive,Steven Turner,Romance,1939,30.77,51
+68,User-friendly 4thgeneration concept,Brandon Clark,Science Fiction,1920,48.43,14
+69,Streamlined interactive database,Jaclyn Barnes,Romance,1933,18.97,95
+70,Down-sized attitude-oriented migration,Jacqueline Morgan,Non-Fiction,1937,29.35,46
+71,Adaptive asymmetric structure,Kevin Clark,Biography,2008,32.27,62
+72,Re-engineered secondary migration,Rachel Cook,Mystery,2012,49.86,22
+73,Intuitive 5thgeneration throughput,Bryan Barnes,Romance,1918,12.38,15
+74,Progressive attitude-oriented contingency,Angela Foster,Biography,2007,21.86,48
+75,Ergonomic zero tolerance Internet solution,Juan Wilson,Romance,1931,10.69,42
+76,Reduced encompassing archive,Megan Reed,Biography,1948,16.82,39
+77,Robust encompassing orchestration,Benjamin Ross,Fiction,1915,30.0,32
+78,Multi-layered secondary algorithm,Megan Price,Romance,1944,8.71,100
+79,Streamlined 24hour capability,Samantha Buckley,Mystery,1984,15.17,42
+80,Re-engineered 5thgeneration Internet solution,Denise Barnes,Science Fiction,1984,43.58,52
+81,Secured local structure,Brandon Price,Fantasy,2010,36.01,45
+82,Cross-platform secondary strategy,Megan Bell,Romance,1948,14.58,57
+83,Intuitive national algorithm,Kevin Miller,Fiction,1934,19.8,16
+84,Secured motivating analyzer,Steven Price,Non-Fiction,1918,29.53,35
+85,Persistent tangible encoding,Sean Foster,Biography,1934,18.21,59
+86,Robust asymmetric parallelism,Joseph Brennan,Science Fiction,1942,35.34,44
+87,Customizable attitude-oriented capability,Eric Peters,Science Fiction,2008,33.48,86
+88,Cross-platform 4thgeneration concept,Jacqueline Smith,Non-Fiction,1982,19.87,52
+89,Intuitive local throughput,Colin Brennan,Science Fiction,1932,10.88,75
+90,Robust exuding strategy,Megan Foster,Mystery,1960,43.31,62
+91,Secured reciprocal knowledge user,Rachel Cox,Science Fiction,1915,34.73,35
+92,Secured reciprocal capability,Jacqueline Bell,Fiction,1965,17.46,81
+93,Polarized modular Internet solution,Laura Young,Romance,1998,5.51,13
+94,Adaptive tangible challenge,Keith Young,Romance,1986,12.68,40
+95,Streamlined national strategy,Laura Palmer,Science Fiction,1975,30.16,14
+96,Configurable motivating strategy,Mario Morgan,Romance,1993,28.1,30
+97,Mandatory 24hour algorithm,Michael Barnes,Non-Fiction,1944,19.3,62
+98,Optimized 24hour array,Megan Buckley,Biography,1982,27.05,3
+99,Reduced secondary hub,Megan Foster,Fiction,1925,21.54,66
+100,Multi-layered hybrid parallelism,Samantha Young,Romance,1906,41.67,9
+101,Intuitive hybrid toolset,Michael Palmer,Science Fiction,1968,39.46,39
+102,Reduced exuding initiative,Steven Palmer,Romance,1976,19.63,41
+103,Versatile tangible orchestration,Bryan Howard,Romance,2010,40.91,98
+104,Optimized 5thgeneration concept,Steven Hayes,Science Fiction,1913,46.65,28
+105,Configurable static challenge,Jacqueline Smith,Romance,2009,28.7,66
+106,Open-architected motivating capability,Steven Turner,Fiction,1917,30.15,42
+107,Polarized bifurcated parallelism,Sean Wilson,Science Fiction,1969,13.51,78
+108,Face-to-face real-time encoding,Kevin Miller,Fantasy,2002,41.71,85
+109,Down-sized coherent migration,Michael Gray,Biography,1935,40.53,23
+110,Adaptive motivating Internet solution,Laura Scott,Fantasy,1958,12.57,89
+111,Persevering scalable implementation,Michael Miller,Fiction,1982,33.03,70
+112,Configurable demand-driven challenge,Hector Scott,Romance,1911,25.95,96
+113,Re-engineered interactive array,Juan Turner,Romance,1905,26.19,8
+114,Customizable secondary interface,Steven Turner,Science Fiction,2004,41.76,43
+115,Cross-platform reciprocal implementation,Hector Young,Mystery,2004,9.05,85
+116,Re-engineered zero tolerance analyzer,Megan Morgan,Fantasy,1928,34.77,64
+117,Open-architected secondary implementation,Sean Gray,Fiction,1992,24.04,47
+118,Proactive zero tolerance time-frame,Angela Reed,Fiction,2019,47.66,78
+119,Reduced modular structure,Kevin Young,Biography,1996,8.55,92
+120,Versatile exuding contingency,Bryan Andrews,Fantasy,1926,33.85,25
+121,Enhanced systematic throughput,Sean Miller,Science Fiction,2014,46.12,35
+122,Ergonomic hybrid orchestration,Jaclyn Crane,Fiction,1966,25.71,35
+123,Multi-layered secondary core,Juan Andrews,Mystery,1918,30.18,46
+124,Vision-oriented asymmetric framework,Angela Brown,Biography,2019,36.42,72
+125,Secured scalable hub,Michael Howard,Fiction,1959,20.57,68
+126,Multi-layered 5thgeneration product,Megan Buckley,Non-Fiction,1904,8.62,6
+127,Streamlined 5thgeneration project,Teresa Andrews,Fiction,2002,34.05,74
+128,Vision-oriented exuding core,Sean Crane,Fantasy,2014,19.33,4
+129,Customizable asymmetric initiative,Bryan Brennan,Mystery,1932,5.82,6
+130,Intuitive modular capability,Todd Palmer,Biography,1993,48.37,43
+131,Proactive interactive time-frame,Benjamin Cox,Non-Fiction,1991,45.35,89
+132,Persistent asymmetric challenge,Hector Gray,Mystery,1940,23.85,63
+133,Persistent exuding implementation,Keith Young,Mystery,1914,31.48,76
+134,User-friendly 24hour concept,Joseph Peters,Fantasy,1949,37.86,68
+135,Vision-oriented interactive time-frame,Troy Gray,Romance,1940,17.03,56
+136,Virtual hybrid interface,Joseph Scott,Romance,2011,28.4,68
+137,Customizable national orchestration,Brandon Young,Romance,1909,29.96,59
+138,User-friendly encompassing migration,Christopher Bell,Fiction,1951,48.94,32
+139,Open-architected coherent hub,Rachel Bell,Fantasy,1967,16.99,48
+140,Streamlined motivating implementation,Eric Ross,Biography,1927,36.8,81
+141,Fully-configurable real-time Internet solution,Christopher Cook,Fiction,1970,35.02,46
+142,Enhanced real-time project,Megan Palmer,Science Fiction,2019,6.56,25
+143,Robust bifurcated core,Mario Ruiz,Biography,1921,34.33,36
+144,Open-architected reciprocal time-frame,Todd Clark,Biography,1960,46.62,10
+145,Enhanced real-time database,Sean Morgan,Romance,1981,28.25,70
+146,Persistent 24hour analyzer,Mario Brennan,Non-Fiction,1929,29.15,60
+147,Streamlined optimal knowledge user,Joseph Smith,Fiction,1971,9.02,87
+148,Synergistic local implementation,Troy Morgan,Romance,1925,27.72,44
+149,User-friendly motivating toolset,Angela Morgan,Fiction,1911,5.85,10
+150,Intuitive scalable encoding,Teresa Gray,Romance,1999,15.94,61
+151,Virtual real-time encoding,Michael Bell,Non-Fiction,1922,27.27,15
+152,Adaptive reciprocal analyzer,Jaclyn Howard,Science Fiction,1963,33.32,86
+153,Down-sized tangible concept,Destiny Howard,Science Fiction,1987,31.61,84
+154,Optimized optimal product,Jaclyn Cook,Fantasy,2020,18.67,87
+155,Down-sized attitude-oriented interface,Bryan Ruiz,Science Fiction,1968,5.47,4
+156,Secured hybrid implementation,Laura Price,Romance,1912,15.92,61
+157,Cross-platform local framework,Hector Ross,Science Fiction,1961,10.09,17
+158,Configurable exuding concept,Samantha Miller,Fiction,2020,16.34,57
+159,Synergistic demand-driven encoding,Jaclyn Clark,Science Fiction,1900,24.98,16
+160,Customizable optimal analyzer,Denise Price,Mystery,1908,43.06,36
+161,Vision-oriented scalable project,Kevin Ward,Non-Fiction,1932,25.07,80
+162,Re-engineered 24hour time-frame,Steven Barnes,Mystery,1921,9.57,71
+163,Configurable zero tolerance structure,Laura Ruiz,Science Fiction,1997,49.78,29
+164,Virtual real-time algorithm,Denise Morgan,Mystery,1912,15.34,17
+165,Synergistic tangible toolset,Sean Hayes,Fantasy,1978,29.71,70
+166,Face-to-face asymmetric contingency,Colin Scott,Mystery,2018,25.35,23
+167,Progressive demand-driven knowledge user,Kevin Wilson,Mystery,1925,18.51,56
+168,Versatile national encoding,Keith Hayes,Science Fiction,1963,35.64,79
+169,Ergonomic hybrid knowledge user,Brandon Wilson,Romance,1943,30.28,53
+170,Persistent real-time toolset,Nicole Brennan,Mystery,2021,47.59,37
+171,Fully-configurable attitude-oriented analyzer,Todd Palmer,Non-Fiction,2006,49.55,97
+172,User-friendly 5thgeneration challenge,Joseph Smith,Romance,1954,22.43,47
+173,Virtual optimal Internet solution,Teresa Hayes,Non-Fiction,2010,38.44,4
+174,Customizable optimal structure,Bryan Peters,Romance,1950,26.28,21
+175,Re-engineered 5thgeneration structure,Destiny Crane,Romance,1910,49.18,15
+176,Open-architected asymmetric product,Keith Wilson,Non-Fiction,1981,28.22,81
+177,Customizable systematic challenge,Denise Ruiz,Biography,1912,45.07,98
+178,Secured attitude-oriented encoding,Keith Clark,Fiction,1912,33.96,25
+179,Virtual 4thgeneration archive,Benjamin Barnes,Romance,1923,10.61,45
+180,Persistent interactive project,Keith Gray,Biography,2017,49.91,55
+181,Cross-platform interactive initiative,Joseph Lewis,Fiction,1954,44.44,9
+182,Vision-oriented 24hour knowledge user,Keith Peters,Non-Fiction,1995,9.43,7
+183,Re-engineered local strategy,Angela Howard,Non-Fiction,1991,29.53,32
+184,Re-engineered encompassing orchestration,Bryan Crane,Mystery,1918,32.11,40
+185,Optimized scalable migration,Jeremy Bell,Biography,1988,15.19,97
+186,Streamlined systematic toolset,Derrick Brown,Mystery,1979,16.89,55
+187,Virtual exuding archive,Teresa Ruiz,Fantasy,1994,42.12,68
+188,Advanced 5thgeneration strategy,Colin Moore,Romance,1978,16.33,59
+189,Ergonomic systematic database,Steven Gray,Non-Fiction,1926,36.85,99
+190,Intuitive national project,Bryan Scott,Mystery,1966,18.9,34
+191,Ergonomic encompassing archive,Todd Cox,Biography,2017,13.91,77
+192,Secured real-time array,Kevin Ross,Science Fiction,1915,34.75,52
+193,Robust systematic framework,Keith Wilson,Fiction,1986,9.79,48
+194,Virtual systematic capability,Michael Price,Romance,1941,30.62,46
+195,Configurable scalable orchestration,Jaclyn Reed,Non-Fiction,2001,16.3,62
+196,Configurable secondary strategy,Keith Moore,Romance,1902,43.87,38
+197,Face-to-face 4thgeneration migration,Mario Andrews,Mystery,1942,24.43,50
+198,Ergonomic real-time hub,Joseph Young,Fantasy,1907,8.51,23
+199,Persevering real-time orchestration,Eric Gray,Romance,1969,25.53,87
+200,Synergistic 4thgeneration concept,Angela Wilson,Biography,1937,10.71,54
+201,Persistent encompassing contingency,Derrick Ross,Biography,2001,40.68,76
+202,Virtual hybrid database,Jaclyn Moore,Fantasy,1956,48.66,72
+203,Intuitive reciprocal capability,Rachel Gray,Non-Fiction,1952,46.5,72
+204,Versatile static structure,Eric Moore,Fiction,1939,11.73,82
+205,Mandatory 4thgeneration implementation,Todd Hayes,Science Fiction,1906,8.08,74
+206,Re-engineered 24hour project,Angela Clark,Fantasy,2000,5.04,100
+207,Cross-platform encompassing migration,Juan Smith,Fantasy,1934,48.35,60
+208,Progressive exuding encoding,Jacqueline Barnes,Fantasy,1997,41.06,38
+209,Configurable encompassing structure,Keith Hayes,Biography,1946,22.59,10
+210,Virtual reciprocal orchestration,Teresa Lewis,Biography,1935,29.86,25
+211,Secured motivating initiative,Samantha Brennan,Romance,1914,42.09,10
+212,Proactive optimal project,Sean Scott,Mystery,2000,44.12,22
+213,Adaptive zero tolerance Internet solution,Colin Lewis,Biography,1949,16.31,83
+214,Reduced secondary structure,Jacqueline Foster,Fantasy,2020,21.18,9
+215,Mandatory bifurcated framework,Juan Wilson,Non-Fiction,2002,49.16,69
+216,Persevering 4thgeneration orchestration,Steven Ross,Fantasy,1992,17.42,82
+217,Mandatory coherent time-frame,Juan Buckley,Fiction,1950,45.02,92
+218,Customizable zero tolerance time-frame,Christopher Buckley,Science Fiction,2005,23.65,62
+219,Secured demand-driven time-frame,Juan Turner,Mystery,1906,46.67,38
+220,Cross-platform systematic initiative,Nicole Young,Science Fiction,1925,47.17,2
+221,Configurable tangible structure,Joseph Clark,Mystery,1940,9.22,64
+222,Progressive systematic algorithm,Denise Brennan,Science Fiction,1978,14.85,46
+223,Multi-layered attitude-oriented interface,Laura Peters,Science Fiction,1962,36.05,8
+224,Robust bifurcated array,Steven Scott,Fantasy,1969,47.2,72
+225,Robust 5thgeneration orchestration,Brandon Hayes,Romance,2010,39.34,82
+226,Robust scalable migration,Joseph Smith,Fiction,2019,35.7,83
+227,Synergistic coherent core,Juan Gray,Science Fiction,1960,23.15,92
+228,Mandatory bifurcated archive,Destiny Andrews,Non-Fiction,1915,15.93,29
+229,Robust zero tolerance hub,Jacqueline Price,Science Fiction,1901,10.46,95
+230,Progressive 24hour orchestration,Bryan Hayes,Mystery,2021,33.92,26
+231,Proactive exuding time-frame,Bryan Ruiz,Mystery,1955,17.88,56
+232,Face-to-face systematic structure,Derrick Hayes,Fiction,2008,21.56,28
+233,Synergistic 4thgeneration database,Todd Brown,Mystery,1990,48.09,34
+234,Cross-platform tangible contingency,Troy Reed,Mystery,1994,43.39,43
+235,Face-to-face modular archive,Jacqueline Reed,Non-Fiction,1923,8.56,23
+236,Persistent hybrid capability,Troy Ross,Non-Fiction,1979,23.28,59
+237,Persevering motivating archive,Kevin Cook,Mystery,1937,36.23,81
+238,Persevering motivating analyzer,Nicole Foster,Fiction,1943,36.29,9
+239,Cross-platform asymmetric concept,Hector Smith,Science Fiction,1940,23.85,16
+240,Proactive attitude-oriented hub,Christopher Turner,Biography,1966,43.95,32
+241,Secured national array,Troy Buckley,Romance,1986,17.16,87
+242,Ergonomic local interface,Eric Buckley,Mystery,1961,17.53,67
+243,Cross-platform real-time database,Derrick Foster,Romance,1916,16.97,35
+244,User-friendly reciprocal implementation,Jaclyn Howard,Romance,1947,23.17,72
+245,Proactive reciprocal database,Sean Crane,Biography,1907,44.78,92
+246,Persevering bifurcated array,Angela Miller,Biography,1902,27.03,99
+247,Configurable national product,Keith Foster,Biography,1925,38.85,77
+248,Adaptive 24hour structure,Troy Moore,Non-Fiction,1957,6.48,5
+249,Ergonomic 5thgeneration concept,Benjamin Price,Science Fiction,1967,36.25,13
+250,Enhanced systematic contingency,Jaclyn Gray,Biography,2014,9.73,52
+251,Persistent secondary initiative,Derrick Crane,Fantasy,1903,16.04,31
+252,Persevering coherent archive,Samantha Crane,Science Fiction,1926,5.16,1
+253,Ergonomic local parallelism,Jacqueline Foster,Fiction,2023,8.89,56
+254,Reduced encompassing array,Eric Scott,Fantasy,2004,31.62,6
+255,Streamlined interactive strategy,Keith Moore,Romance,1990,9.21,20
+256,Cross-platform exuding archive,Brandon Price,Fiction,1902,43.95,64
+257,Synergistic hybrid implementation,Teresa Turner,Romance,1921,14.17,66
+258,Streamlined hybrid structure,Jacqueline Peters,Biography,2007,10.8,63
+259,Versatile encompassing concept,Jeremy Andrews,Non-Fiction,1971,44.35,18
+260,Multi-layered national archive,Nicole Wilson,Romance,1913,46.17,63
+261,Mandatory reciprocal algorithm,Jaclyn Peters,Mystery,1943,19.13,70
+262,Enhanced tangible knowledge user,Jeremy Hayes,Fantasy,2004,19.84,51
+263,Reduced systematic migration,Megan Palmer,Fantasy,2015,41.61,75
+264,Vision-oriented zero tolerance hub,Sean Reed,Biography,1917,16.98,59
+265,Enhanced attitude-oriented algorithm,Laura Morgan,Fiction,1933,15.09,96
+266,Re-engineered asymmetric migration,Juan Palmer,Mystery,1921,30.77,85
+267,Virtual exuding migration,Bryan Crane,Romance,1993,45.19,18
+268,Proactive hybrid time-frame,Juan Clark,Fantasy,1903,38.62,18
+269,User-friendly local concept,Troy Price,Science Fiction,1903,40.29,88
+270,Fully-configurable exuding toolset,Laura Scott,Biography,1948,7.71,83
+271,Customizable 4thgeneration concept,Teresa Lewis,Romance,1957,5.49,16
+272,Secured encompassing project,Eric Brennan,Biography,2005,9.74,30
+273,Intuitive bifurcated encoding,Denise Gray,Fantasy,1949,31.62,96
+274,Re-engineered hybrid structure,Angela Peters,Romance,2020,42.09,18
+275,Mandatory static parallelism,Laura Moore,Science Fiction,1965,11.01,89
+276,Virtual national parallelism,Angela Andrews,Fantasy,1912,13.57,45
+277,User-friendly coherent project,Mario Crane,Fantasy,1916,14.6,52
+278,Cross-platform real-time interface,Jaclyn Wilson,Non-Fiction,1926,16.71,17
+279,Reduced demand-driven capability,Jaclyn Gray,Non-Fiction,2010,19.43,9
+280,Open-architected hybrid orchestration,Christopher Moore,Science Fiction,1990,49.14,7
+281,Re-engineered zero tolerance database,Benjamin Howard,Science Fiction,1991,46.33,98
+282,Reduced modular toolset,Christopher Morgan,Mystery,2016,43.67,29
+283,Persistent bifurcated orchestration,Derrick Smith,Non-Fiction,1970,21.52,77
+284,Virtual 4thgeneration toolset,Jeremy Brennan,Biography,1998,9.74,33
+285,Open-architected encompassing parallelism,Derrick Moore,Fantasy,2017,33.24,4
+286,Adaptive local orchestration,Joseph Morgan,Biography,1945,42.9,1
+287,Polarized real-time product,Derrick Buckley,Romance,2014,11.17,84
+288,Optimized encompassing migration,Hector Young,Non-Fiction,1914,30.53,68
+289,Adaptive zero tolerance concept,Jaclyn Reed,Science Fiction,1908,42.18,48
+290,Fully-configurable interactive database,Christopher Cook,Science Fiction,1916,13.31,28
+291,Proactive asymmetric structure,Benjamin Bell,Mystery,1968,25.88,51
+292,Persevering demand-driven contingency,Joseph Scott,Non-Fiction,2016,12.71,50
+293,Progressive real-time array,Samantha Lewis,Fantasy,1932,11.32,58
+294,Re-engineered motivating analyzer,Nicole Howard,Science Fiction,1990,12.05,81
+295,Enhanced 24hour time-frame,Colin Reed,Science Fiction,1956,23.18,6
+296,Optimized hybrid project,Derrick Cox,Romance,1929,22.61,7
+297,Versatile secondary array,Joseph Ruiz,Romance,1950,21.4,59
+298,Configurable national strategy,Mario Barnes,Fiction,1933,36.32,30
+299,Open-architected 5thgeneration project,Eric Bell,Mystery,1986,32.07,50
+300,Face-to-face 24hour project,Christopher Crane,Romance,1996,46.49,52
+301,Ergonomic motivating time-frame,Jaclyn Ward,Romance,1939,41.3,6
+302,Enhanced optimal project,Bryan Crane,Non-Fiction,1953,29.27,17
+303,Multi-layered systematic parallelism,Michael Ross,Biography,1961,20.26,65
+304,Down-sized asymmetric orchestration,Derrick Smith,Science Fiction,1938,29.58,64
+305,Face-to-face 5thgeneration implementation,Mario Lewis,Fantasy,1973,24.38,24
+306,Persevering national toolset,Sean Cook,Fiction,1952,30.81,32
+307,Intuitive real-time framework,Benjamin Howard,Biography,1900,6.17,73
+308,Progressive exuding migration,Benjamin Smith,Science Fiction,1902,6.33,97
+309,Progressive interactive implementation,Steven Crane,Mystery,1963,5.76,12
+310,Adaptive exuding concept,Colin Ruiz,Fantasy,1963,28.24,7
+311,Proactive asymmetric database,Brandon Miller,Non-Fiction,2009,16.99,9
+312,Virtual static capability,Keith Buckley,Fiction,2019,41.15,35
+313,Open-architected local toolset,Jacqueline Andrews,Fiction,1989,26.35,57
+314,Vision-oriented exuding implementation,Derrick Ruiz,Biography,1989,21.76,28
+315,Virtual scalable time-frame,Samantha Price,Science Fiction,2001,32.19,85
+316,User-friendly static encoding,Angela Scott,Mystery,1922,7.84,76
+317,Open-architected zero tolerance implementation,Derrick Miller,Science Fiction,1955,36.75,66
+318,Re-engineered national implementation,Nicole Morgan,Fiction,2006,9.03,68
+319,Open-architected scalable product,Bryan Cook,Romance,1934,38.45,63
+320,Streamlined secondary algorithm,Joseph Cook,Science Fiction,1916,33.72,99
+321,Synergistic secondary encoding,Todd Morgan,Biography,1962,18.23,44
+322,User-friendly tangible core,Teresa Palmer,Fantasy,1960,9.39,90
+323,User-friendly zero tolerance time-frame,Denise Miller,Fiction,2010,40.85,91
+324,Re-engineered hybrid hub,Denise Crane,Mystery,1909,8.49,48
+325,Synergistic scalable time-frame,Jeremy Moore,Mystery,2015,30.77,47
+326,Multi-layered bifurcated Internet solution,Samantha Barnes,Science Fiction,1997,46.29,4
+327,Vision-oriented bifurcated hub,Laura Palmer,Non-Fiction,1914,45.73,70
+328,Customizable reciprocal product,Jacqueline Bell,Fantasy,1908,40.98,48
+329,Re-engineered coherent hub,Rachel Lewis,Biography,1970,37.03,26
+330,Enhanced static concept,Kevin Cook,Biography,1977,19.92,83
+331,Cross-platform real-time framework,Jeremy Howard,Biography,1909,7.8,74
+332,Proactive tangible contingency,Nicole Ruiz,Non-Fiction,1939,22.05,47
+333,Customizable secondary core,Destiny Reed,Science Fiction,1931,32.82,82
+334,Adaptive scalable initiative,Mario Lewis,Fantasy,1944,18.08,96
+335,Persevering bifurcated framework,Brandon Ward,Fantasy,2021,34.33,9
+336,Face-to-face bifurcated concept,Todd Ward,Science Fiction,1907,17.75,78
+337,Secured optimal initiative,Brandon Ruiz,Fantasy,1928,26.86,30
+338,Open-architected bifurcated parallelism,Angela Brown,Mystery,1956,30.48,13
+339,Re-engineered 5thgeneration array,Nicole Ruiz,Fantasy,1934,25.77,34
+340,Enhanced hybrid concept,Joseph Barnes,Romance,1934,49.3,65
+341,Persevering hybrid parallelism,Destiny Scott,Romance,2008,20.92,56
+342,Cross-platform tangible implementation,Sean Buckley,Non-Fiction,1998,24.57,67
+343,Fully-configurable systematic contingency,Jacqueline Buckley,Biography,1982,20.49,11
+344,Open-architected secondary core,Brandon Scott,Biography,1952,31.35,37
+345,Advanced systematic toolset,Jaclyn Clark,Romance,1969,34.61,83
+346,Ergonomic attitude-oriented structure,Troy Howard,Fiction,1978,47.83,11
+347,Mandatory motivating challenge,Laura Crane,Fiction,1935,25.71,57
+348,User-friendly zero tolerance algorithm,Nicole Bell,Romance,1966,33.96,84
+349,Down-sized modular Internet solution,Joseph Ruiz,Science Fiction,2001,43.66,35
+350,Streamlined 5thgeneration strategy,Megan Howard,Mystery,1929,34.31,84
+351,Optimized coherent analyzer,Jeremy Wilson,Science Fiction,1940,24.05,30
+352,Customizable motivating structure,Megan Brown,Science Fiction,2009,41.95,36
+353,Intuitive asymmetric capability,Christopher Palmer,Biography,1993,25.09,98
+354,Polarized asymmetric project,Sean Andrews,Fiction,1918,48.26,36
+355,Proactive asymmetric parallelism,Samantha Howard,Fantasy,2010,11.6,2
+356,Advanced 5thgeneration analyzer,Colin Brennan,Non-Fiction,1916,35.11,43
+357,Multi-layered 4thgeneration throughput,Brandon Morgan,Science Fiction,1947,45.08,60
+358,Cross-platform exuding migration,Michael Price,Romance,1908,42.38,49
+359,Progressive 5thgeneration core,Hector Buckley,Romance,1973,31.41,52
+360,Cross-platform attitude-oriented product,Benjamin Wilson,Fiction,1969,44.1,83
+361,Polarized tangible core,Denise Smith,Fiction,1901,38.66,47
+362,Cross-platform demand-driven toolset,Hector Young,Mystery,1992,45.0,90
+363,Versatile real-time database,Laura Clark,Fiction,1962,7.65,70
+364,Intuitive 24hour concept,Denise Young,Biography,1950,45.17,34
+365,Cross-platform demand-driven concept,Keith Howard,Fiction,1957,16.72,26
+366,Re-engineered bifurcated hub,Mario Ward,Fantasy,1917,5.59,73
+367,Streamlined static implementation,Megan Miller,Romance,1906,14.2,42
+368,Vision-oriented tangible knowledge user,Denise Palmer,Biography,1960,41.68,60
+369,Progressive tangible contingency,Samantha Scott,Fiction,1975,8.93,15
+370,Virtual asymmetric interface,Nicole Brown,Fantasy,2017,32.51,95
+371,Intuitive 5thgeneration structure,Juan Price,Biography,2022,26.69,36
+372,Secured scalable product,Kevin Buckley,Fantasy,1940,43.69,16
+373,Secured national structure,Benjamin Clark,Romance,1957,13.51,52
+374,Reduced scalable migration,Brandon Turner,Non-Fiction,1961,8.4,60
+375,Open-architected interactive challenge,Derrick Morgan,Mystery,1934,21.67,99
+376,Enhanced 4thgeneration core,Benjamin Andrews,Fantasy,1922,37.78,35
+377,Optimized reciprocal time-frame,Troy Ward,Biography,1973,40.07,36
+378,Advanced 5thgeneration implementation,Samantha Ross,Mystery,1926,42.35,39
+379,Multi-layered zero tolerance structure,Denise Brown,Biography,2012,40.58,98
+380,Open-architected 5thgeneration product,Angela Ruiz,Science Fiction,1978,48.43,61
+381,Ergonomic scalable time-frame,Derrick Bell,Mystery,1941,47.41,49
+382,User-friendly local archive,Angela Peters,Biography,1917,21.36,20
+383,Configurable hybrid contingency,Samantha Clark,Fantasy,1950,21.6,9
+384,Streamlined attitude-oriented algorithm,Brandon Cook,Science Fiction,1949,13.1,80
+385,Secured 4thgeneration challenge,Destiny Cook,Science Fiction,1978,46.42,23
+386,Reduced modular knowledge user,Laura Scott,Fantasy,1969,42.87,51
+387,Polarized hybrid interface,Samantha Smith,Biography,1941,20.56,81
+388,Progressive optimal knowledge user,Joseph Gray,Science Fiction,1904,25.39,40
+389,Multi-layered asymmetric array,Steven Scott,Non-Fiction,1957,39.47,90
+390,Advanced zero tolerance archive,Colin Palmer,Romance,1966,47.15,7
+391,Mandatory scalable implementation,Juan Hayes,Science Fiction,1943,16.52,5
+392,Progressive national concept,Bryan Cox,Fantasy,1964,41.14,27
+393,Configurable tangible archive,Brandon Brown,Science Fiction,2000,5.13,55
+394,Customizable exuding encoding,Juan Bell,Fiction,1947,19.63,43
+395,Ergonomic 4thgeneration analyzer,Troy Bell,Non-Fiction,1936,27.42,40
+396,Versatile secondary initiative,Todd Cook,Romance,1940,45.51,94
+397,Virtual secondary framework,Angela Young,Science Fiction,1977,43.45,77
+398,Enhanced 4thgeneration initiative,Keith Moore,Mystery,1994,13.72,53
+399,Streamlined bifurcated structure,Laura Brennan,Fiction,1927,5.5,32
+400,Vision-oriented secondary encoding,Steven Ross,Fiction,1965,5.32,64
+401,Progressive scalable strategy,Mario Barnes,Science Fiction,1996,10.11,88
+402,Fully-configurable bifurcated Internet solution,Jacqueline Foster,Science Fiction,2010,34.77,52
+403,Customizable interactive array,Troy Brown,Mystery,1971,41.41,91
+404,Advanced tangible core,Denise Turner,Fantasy,1958,6.61,95
+405,Reduced zero tolerance throughput,Hector Crane,Romance,1906,29.2,21
+406,Vision-oriented static challenge,Juan Smith,Non-Fiction,2004,17.5,21
+407,Reduced demand-driven challenge,Jeremy Clark,Romance,1999,5.51,27
+408,Customizable coherent time-frame,Laura Turner,Biography,1962,12.05,12
+409,Optimized attitude-oriented algorithm,Juan Morgan,Non-Fiction,2021,49.28,42
+410,Adaptive modular parallelism,Angela Barnes,Fiction,1951,25.12,46
+411,Versatile interactive strategy,Joseph Scott,Romance,1986,46.22,12
+412,Progressive 5thgeneration database,Destiny Brennan,Mystery,1973,39.68,67
+413,Persistent local interface,Todd Reed,Biography,2020,25.11,5
+414,Synergistic encompassing challenge,Derrick Price,Non-Fiction,1963,6.29,50
+415,Persevering encompassing parallelism,Todd Hayes,Fiction,1949,18.7,35
+416,Mandatory static framework,Keith Palmer,Fantasy,1963,24.4,75
+417,Versatile scalable product,Keith Reed,Fiction,1990,24.44,8
+418,Open-architected demand-driven encoding,Jacqueline Hayes,Non-Fiction,1990,30.96,90
+419,User-friendly coherent implementation,Jeremy Lewis,Romance,1931,47.18,43
+420,Optimized encompassing array,Samantha Peters,Fiction,1985,13.44,82
+421,Open-architected static time-frame,Rachel Lewis,Mystery,1929,23.99,86
+422,User-friendly attitude-oriented analyzer,Jacqueline Crane,Mystery,2000,18.73,51
+423,Customizable 4thgeneration initiative,Christopher Ward,Romance,2004,42.19,28
+424,Customizable 24hour Internet solution,Bryan Cook,Biography,1940,18.98,86
+425,Intuitive bifurcated time-frame,Teresa Andrews,Non-Fiction,1927,13.12,54
+426,Versatile 5thgeneration core,Joseph Price,Romance,1990,39.02,34
+427,Proactive attitude-oriented structure,Megan Clark,Science Fiction,1910,25.44,54
+428,Cross-platform 24hour orchestration,Derrick Bell,Fantasy,2013,39.37,64
+429,Versatile local orchestration,Destiny Clark,Non-Fiction,1992,48.97,55
+430,Ergonomic scalable core,Juan Reed,Fiction,2007,6.82,11
+431,Adaptive coherent algorithm,Megan Morgan,Fiction,1949,47.67,57
+432,Synergistic static structure,Jeremy Price,Science Fiction,1954,22.65,55
+433,Synergistic 24hour initiative,Jaclyn Brown,Science Fiction,1961,39.37,10
+434,Re-engineered motivating Internet solution,Teresa Bell,Biography,1972,28.04,36
+435,Mandatory reciprocal framework,Megan Wilson,Fantasy,2003,38.54,100
+436,Reduced national contingency,Eric Ward,Fiction,1937,32.49,21
+437,Adaptive demand-driven orchestration,Kevin Clark,Romance,1901,7.02,58
+438,Customizable scalable Internet solution,Samantha Clark,Mystery,1994,46.94,4
+439,Reduced 4thgeneration implementation,Jeremy Bell,Romance,1944,47.4,5
+440,Ergonomic zero tolerance framework,Rachel Cook,Fiction,2013,43.96,39
+441,Configurable interactive orchestration,Bryan Andrews,Romance,1954,7.11,56
+442,Persistent 4thgeneration strategy,Denise Young,Non-Fiction,1914,36.14,6
+443,Ergonomic 24hour knowledge user,Hector Bell,Fiction,1952,41.99,93
+444,Persistent 24hour array,Mario Buckley,Mystery,1976,35.08,63
+445,Proactive national product,Jaclyn Morgan,Science Fiction,1917,48.37,90
+446,Advanced demand-driven interface,Bryan Andrews,Science Fiction,1957,40.24,4
+447,Vision-oriented 4thgeneration concept,Kevin Peters,Non-Fiction,1943,38.33,74
+448,Versatile interactive Internet solution,Michael Reed,Science Fiction,2003,45.18,34
+449,Proactive tangible encoding,Juan Morgan,Science Fiction,1943,47.18,81
+450,Optimized optimal capability,Denise Howard,Romance,1956,24.02,6
+451,Optimized zero tolerance time-frame,Jacqueline Brennan,Biography,2003,24.93,11
+452,User-friendly 4thgeneration structure,Todd Wilson,Mystery,1943,22.34,13
+453,Cross-platform real-time strategy,Bryan Howard,Biography,1933,27.79,8
+454,Persistent tangible analyzer,Bryan Ruiz,Fiction,1965,25.26,26
+455,Persevering coherent orchestration,Mario Morgan,Mystery,1989,32.49,81
+456,Multi-layered hybrid project,Eric Ross,Non-Fiction,1957,18.83,69
+457,Reduced 4thgeneration initiative,Mario Turner,Biography,1901,27.71,6
+458,Adaptive zero tolerance encoding,Mario Wilson,Science Fiction,1926,7.69,48
+459,Fully-configurable motivating core,Steven Ross,Fiction,1910,10.69,31
+460,Reduced scalable strategy,Bryan Cook,Mystery,2021,29.01,63
+461,Multi-layered bifurcated migration,Bryan Moore,Science Fiction,1934,20.82,32
+462,Open-architected modular parallelism,Christopher Palmer,Romance,1912,16.82,98
+463,Ergonomic zero tolerance structure,Keith Hayes,Mystery,2009,5.71,12
+464,Enhanced local initiative,Bryan Clark,Biography,1988,22.07,55
+465,Customizable interactive analyzer,Joseph Clark,Non-Fiction,1942,46.26,82
+466,Cross-platform optimal contingency,Juan Brennan,Fantasy,1942,49.31,3
+467,Reduced attitude-oriented database,Brandon Moore,Biography,1932,23.41,58
+468,Re-engineered modular encoding,Nicole Smith,Non-Fiction,1989,11.05,74
+469,Streamlined zero tolerance algorithm,Angela Brennan,Biography,1915,17.2,91
+470,User-friendly attitude-oriented archive,Rachel Morgan,Biography,1926,12.57,44
+471,Cross-platform bifurcated concept,Rachel Brennan,Fantasy,1982,11.15,13
+472,User-friendly hybrid analyzer,Jacqueline Young,Mystery,1974,11.25,43
+473,Customizable coherent knowledge user,Bryan Brown,Non-Fiction,1995,32.44,37
+474,Ergonomic local product,Nicole Buckley,Fantasy,1915,40.62,41
+475,Reduced hybrid core,Juan Andrews,Biography,2020,40.53,32
+476,Enhanced real-time migration,Denise Price,Science Fiction,1996,30.34,74
+477,Down-sized asymmetric product,Todd Gray,Science Fiction,1941,13.72,77
+478,Virtual tangible orchestration,Juan Andrews,Science Fiction,1913,39.68,100
+479,Customizable systematic concept,Benjamin Turner,Fantasy,1970,33.52,34
+480,Persevering encompassing contingency,Denise Cook,Fiction,1959,13.25,55
+481,Virtual encompassing initiative,Steven Morgan,Science Fiction,1912,48.03,93
+482,Customizable asymmetric Internet solution,Colin Ruiz,Non-Fiction,1944,29.86,90
+483,Enhanced motivating toolset,Derrick Wilson,Non-Fiction,1962,7.42,100
+484,Open-architected motivating analyzer,Joseph Wilson,Romance,1928,38.63,76
+485,Virtual demand-driven challenge,Angela Brown,Non-Fiction,2019,33.05,81
+486,Mandatory encompassing interface,Joseph Peters,Biography,1908,41.92,62
+487,Face-to-face motivating interface,Brandon Brown,Science Fiction,1916,6.53,38
+488,Virtual reciprocal capability,Samantha Reed,Science Fiction,1975,7.82,68
+489,Configurable secondary algorithm,Nicole Cox,Non-Fiction,2013,38.65,9
+490,Down-sized encompassing analyzer,Teresa Bell,Fiction,1940,11.47,6
+491,Persistent bifurcated time-frame,Jaclyn Palmer,Non-Fiction,1919,5.1,26
+492,Ergonomic coherent capability,Keith Hayes,Non-Fiction,1912,21.37,39
+493,Down-sized 24hour analyzer,Keith Crane,Non-Fiction,1929,15.4,43
+494,User-friendly interactive algorithm,Rachel Turner,Biography,1907,10.04,13
+495,Configurable 4thgeneration archive,Keith Barnes,Fantasy,1905,27.44,2
+496,Cross-platform real-time migration,Joseph Turner,Science Fiction,1914,20.5,28
+497,Reduced exuding archive,Nicole Andrews,Biography,1912,25.36,62
+498,Customizable scalable project,Bryan Miller,Non-Fiction,1994,19.34,75
+499,Down-sized scalable knowledge user,Colin Scott,Fantasy,1972,37.13,84
+500,Streamlined zero tolerance initiative,Jacqueline Brown,Biography,1900,36.06,93
